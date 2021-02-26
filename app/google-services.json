@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458168008282",
+    "project_id": "studentarray2-563da",
+    "storage_bucket": "studentarray2-563da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458168008282:android:8707ea2383a14ef6d2e263",
+        "android_client_info": {
+          "package_name": "com.example.studentarray2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458168008282-7ndikrg4ggjd1j5b9l5eioffst1qcvek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC414mJzT8mm-ExJstffL7bv6px_cDBNjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458168008282-7ndikrg4ggjd1j5b9l5eioffst1qcvek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
