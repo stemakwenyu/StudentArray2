@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StudentArray2</string>
+    <string name="ma">marks</string>
+    <string name="Ste">Steve</string>
+    <string name="Dn">Dan</string>
+    <string name="Sam">Samuel</string>
+    <string name="Frd">Fred</string>
+    <string name="Rich">Richard</string>
+    <string name="Mar">Martin</string>
+    <string name="Jan">Januaries</string>
+    <string name="Dommy">Dominic</string>
+    <string name="Mich">Michael</string>
+    <string name="Mabr">Mabruce</string>
+    <!--<string name="total">Total</string>
+    <string name="postn">Position</string>-->
+
+</resources>

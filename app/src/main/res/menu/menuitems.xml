@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+   android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <item
+        android:title="marks"
+        android:id="@+id/ma"
+        app:showAsAction="ifRoom"
+        />
+
+    <menu>
+        <item
+            android:title="Steve"
+            android:id="@+id/Ste"
+
+            />
+        <item
+            android:title="Dan"
+            android:id="@+id/Dn"
+
+            />
+        <item
+            android:title="Samuel"
+            android:id="@+id/Sam"
+
+            />
+        <item
+            android:title="Fred"
+            android:id="@+id/Frd"
+
+            />
+        <item
+            android:title="Richard"
+            android:id="@+id/Rich"
+
+            />
+        <item
+            android:title="Martin"
+            android:id="@+id/Mart"
+
+            />
+        <item
+            android:title="Januaries"
+            android:id="@+id/Jan"
+
+            />
+        <item
+            android:title="Michael"
+            android:id="@+id/Mich"
+
+            />
+        <item
+            android:title="Mabruce"
+            android:id="@+id/Mabr"
+
+            />
+       <!-- <item
+            android:title="Total"
+            android:id="@+id/ttl"
+
+            />
+        <item
+            android:title="Position"
+            android:id="@+id/pstn"
+
+            />-->
+
+
+
+    </menu>
+    />
+
+</menu>
